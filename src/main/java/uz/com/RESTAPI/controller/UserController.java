@@ -16,7 +16,6 @@ import java.util.List;
 public class UserController {
 
    private UserService userService;
-   private UserRepository userRepository;
 
 
    public UserController(UserService userService){
